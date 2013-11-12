@@ -1,0 +1,6 @@
+Task is to write what I know about the mv command. So here goes.
+
+mv can be used to move files, or to rename them:
+
+To rename $ mv "old name" "new name"
+To move $ mv "file or directory" "new file or directory"
