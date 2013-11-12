@@ -1,0 +1,6 @@
+wc is for counting either lines, characters, or bytes.
+
+It takes the form of line, word, byte and filename. You write it in the terminal like this:
+
+$ wc filename
+
