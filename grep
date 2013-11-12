@@ -1,0 +1,11 @@
+I much prefer grep command to the find command. 
+
+Grep is used for filtering.  It can look for content inside files. In order to do this it requires two parameters:
+1) what you want to search for
+2) what you want to search through
+
+eg
+
+$ grep banana "*.txt"
+
+I want to search all text files for the word banana
